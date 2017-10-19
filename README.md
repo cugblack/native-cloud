@@ -69,6 +69,7 @@ Kubernetes和Cloud Native专业网站。
 - [grafana](https://grafana.com/blog/)
 - [gravitational](https://gravitational.com/blog/)
 - [heptio](https://blog.heptio.com/)
+- [Infralovers](https://www.infralovers.com/en/articles/)
 - [jimmysong](https://jimmysong.io/)
 - [kubernetes](http://blog.kubernetes.io/)
 - [moby](https://blog.mobyproject.org/)
