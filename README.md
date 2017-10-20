@@ -79,6 +79,7 @@ Kubernetes和Cloud Native专业网站。
 - [prometheus](https://prometheus.io/blog/)
 - [rancher](https://rancher.com/blog/)
 - [spinnaker](https://blog.spinnaker.io/)
+- [stackpoint](https://blog.stackpoint.io/)
 - [supergiant](https://supergiant.io/blog)
 - [thecodeteam](https://blog.thecodeteam.com/)
 - [twistlock](https://www.twistlock.com/blog/)
