@@ -27,71 +27,71 @@ All things about Cloud Native from all related meetups, conferences, open-source
 
 Curated lists about cloud native tools, softwares, architectures and projects。
 
-- [awesome-kubernetes](https - //github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉 
-- [awesome-cloud-native](https - //github.com/rootsongjc/awesome-cloud-native/) - A curated list for awesome cloud native architectures
-- [cloud native landscape](https - //github.com/cncf/landscape) - Cloud Native Landscape [https://cncf.io](https - //cncf.io/)
+- [awesome-kubernetes](http://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉 
+- [awesome-cloud-native](http://github.com/rootsongjc/awesome-cloud-native/) - A curated list for awesome cloud native architectures
+- [cloud native landscape](http://github.com/cncf/landscape) - Cloud Native Landscape [https://cncf.io](http://cncf.io/)
 
 ## Slides/books/information
 
-- [cloud-native-slides-share](https - //github.com/rootsongjc/cloud-native-slides-share) - Cloud Native meetups、conference PPT、books、manual
+- [cloud-native-slides-share](http://github.com/rootsongjc/cloud-native-slides-share) - Cloud Native meetups、conference PPT、books、manual
 
 ## Websites/blogs
 
 Cloud Native websites.
 
-- [thenewstack.io](https - //thenewstack.io/)
+- [thenewstack.io](http://thenewstack.io/)
 
 ### Communities
 
-- [CNCF](https - //cncf.io)
-- [dockone.io](http - //www.dockone.io/)
-- [k8smeetup.com](http - //www.k8smeetup.com/)
-- [k8sport.org](http - //k8sport.org/)
-- [kubernetes.org.cn](https - //www.kubernetes.org.cn/)
+- [CNCF](http://cncf.io)
+- [dockone.io](http://www.dockone.io/)
+- [k8smeetup.com](http://www.k8smeetup.com/)
+- [k8sport.org](http://k8sport.org/)
+- [kubernetes.org.cn](http://www.kubernetes.org.cn/)
 
 
 
 ### Columns
 
-- [Meidum - Kevin Hoffman](https - //medium.com/@KevinHoffman)
-- [Cloud Native 知乎专栏](https - //zhuanlan.zhihu.com/cloud-native)
+- [Meidum - Kevin Hoffman](http://medium.com/@KevinHoffman)
+- [Cloud Native 知乎专栏](http://zhuanlan.zhihu.com/cloud-native)
 
 ### Blogs
 
 Blogs of companies or individuals
 
-- [apcera](https - //www.apcera.com/blog)
-- [aporeto](https - //www.aporeto.com/blog/)
-- [applatix](https - //applatix.com/blog/)
-- [apprenda](https - //apprenda.com/blog/)
-- [buoyant](https - //buoyant.io/blog/)
-- [cisco](https - //blogs.cisco.com/tag/kubernetes)
-- [cncf](https - //www.cncf.io/newsroom/blog/)
-- [codeship](https - //blog.codeship.com/)
-- [containership](https - //blog.containership.io/)
-- [coreos](https - //coreos.com/blog/)
-- [coscale](https - //www.coscale.com/blog)
-- [deis](https - //deis.com/blog/)
-- [fabric8](https - //blog.fabric8.io/)
-- [giantswarm](https - //blog.giantswarm.io/)
-- [grafana](https - //grafana.com/blog/)
-- [gravitational](https - //gravitational.com/blog/)
-- [heptio](https - //blog.heptio.com/)
-- [Infralovers](https - //www.infralovers.com/en/articles/)
-- [jimmysong](https - //jimmysong.io/)
-- [kubernetes](http - //blog.kubernetes.io/)
-- [moby](https - //blog.mobyproject.org/)
-- [openshift](https - //blog.openshift.com/tag/kubernetes/)
-- [pivotal](https - //content.pivotal.io/)
-- [platform9](https - //platform9.com/blog/)
-- [prometheus](https - //prometheus.io/blog/)
-- [rancher](https - //rancher.com/blog/)
-- [spinnaker](https - //blog.spinnaker.io/)
-- [stackpoint](https - //blog.stackpoint.io/)
-- [supergiant](https - //supergiant.io/blog)
-- [thecodeteam](https - //blog.thecodeteam.com/)
-- [twistlock](https - //www.twistlock.com/blog/)
-- [vamp](https - //medium.com/vamp-io)
-- [weave](https - //www.weave.works/blog/)
-- [wercker](http - //blog.wercker.com/)
+- [apcera](http://www.apcera.com/blog)
+- [aporeto](http://www.aporeto.com/blog/)
+- [applatix](http://applatix.com/blog/)
+- [apprenda](http://apprenda.com/blog/)
+- [buoyant](http://buoyant.io/blog/)
+- [cisco](http://blogs.cisco.com/tag/kubernetes)
+- [cncf](http://www.cncf.io/newsroom/blog/)
+- [codeship](http://blog.codeship.com/)
+- [containership](http://blog.containership.io/)
+- [coreos](http://coreos.com/blog/)
+- [coscale](http://www.coscale.com/blog)
+- [deis](http://deis.com/blog/)
+- [fabric8](http://blog.fabric8.io/)
+- [giantswarm](http://blog.giantswarm.io/)
+- [grafana](http://grafana.com/blog/)
+- [gravitational](http://gravitational.com/blog/)
+- [heptio](http://blog.heptio.com/)
+- [Infralovers](http://www.infralovers.com/en/articles/)
+- [jimmysong](http://jimmysong.io/)
+- [kubernetes](http://blog.kubernetes.io/)
+- [moby](http://blog.mobyproject.org/)
+- [openshift](http://blog.openshift.com/tag/kubernetes/)
+- [pivotal](http://content.pivotal.io/)
+- [platform9](http://platform9.com/blog/)
+- [prometheus](http://prometheus.io/blog/)
+- [rancher](http://rancher.com/blog/)
+- [spinnaker](http://blog.spinnaker.io/)
+- [stackpoint](http://blog.stackpoint.io/)
+- [supergiant](http://supergiant.io/blog)
+- [thecodeteam](http://blog.thecodeteam.com/)
+- [twistlock](http://www.twistlock.com/blog/)
+- [vamp](http://medium.com/vamp-io)
+- [weave](http://www.weave.works/blog/)
+- [wercker](http://blog.wercker.com/)
 
