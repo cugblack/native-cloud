@@ -81,6 +81,7 @@ Blogs of companies or individuals
 - [grafana](http://grafana.com/blog/)
 - [gravitational](http://gravitational.com/blog/)
 - [heptio](http://blog.heptio.com/)
+- [IBM Cloud](https://www.ibm.com/blogs/bluemix/)
 - [Infralovers](http://www.infralovers.com/en/articles/)
 - [jimmysong](http://jimmysong.io/)
 - [kubernetes](http://blog.kubernetes.io/)
