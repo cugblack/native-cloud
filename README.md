@@ -94,6 +94,7 @@ Blogs of companies or individuals
 - [spinnaker](http://blog.spinnaker.io/)
 - [stackpoint](http://blog.stackpoint.io/)
 - [supergiant](http://supergiant.io/blog)
+- [sysdig](https://sysdig.com/blog/)
 - [thecodeteam](http://blog.thecodeteam.com/)
 - [twistlock](http://www.twistlock.com/blog/)
 - [vamp](http://medium.com/vamp-io)
