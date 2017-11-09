@@ -75,6 +75,7 @@ Blogs of companies or individuals
 - [containership](http://blog.containership.io/)
 - [coreos](http://coreos.com/blog/)
 - [coscale](http://www.coscale.com/blog)
+- [datawire](https://www.datawire.io/blog/)
 - [deis](http://deis.com/blog/)
 - [fabric8](http://blog.fabric8.io/)
 - [giantswarm](http://blog.giantswarm.io/)
